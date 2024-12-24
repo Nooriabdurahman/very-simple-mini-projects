@@ -1,0 +1,14 @@
+.buttonss{
+    text-align: center;
+    margin: auto;
+}
+
+.count{
+    margin: auto;
+    text-align: center;
+    font-size: 70px;
+}
+label#random\ number {
+    background: blue;
+    font-size: 10rem;
+}
